@@ -1,0 +1,8 @@
+NYT - API information
+API Documentation referenced at:
+https://developer.nytimes.com/docs/archive-product/1/overview
+
+/{year}/{month}.json
+
+Example call:
+https://api.nytimes.com/svc/archive/v1/2019/1.json?api-key=yourkey
